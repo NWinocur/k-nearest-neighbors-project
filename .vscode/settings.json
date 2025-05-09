@@ -2,5 +2,25 @@
     "workbench.startupEditor": "readme",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#da7840",
+        "activityBar.background": "#da7840",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#79e5a1",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#da7840",
+        "statusBar.background": "#c25e25",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#da7840",
+        "statusBarItem.remoteBackground": "#c25e25",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#c25e25",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#c25e2599",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#c25e25"
 }
